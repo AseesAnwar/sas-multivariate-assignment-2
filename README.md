@@ -1,4 +1,4 @@
-# Multivariate Analysis Assignment 2 - SAS Project
+# Multivariate Analysis  - SAS Project
 
 This repository contains the SAS programs and supporting documentation for a multivariate analysis assignment. The work covers Hotelling's T-square tests, simultaneous confidence intervals, two-sample t-tests, and principal component analysis (PCA).
 
