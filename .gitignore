@@ -1,0 +1,17 @@
+# SAS generated files
+*.log
+*.lst
+*.sas7bdat
+*.sas7bvew
+*.sas7bcat
+*.sas7bitm
+*.sas7baud
+*.sas7bndx
+
+# Local outputs
+outputs/*
+!outputs/.gitkeep
+
+# Operating system files
+.DS_Store
+
